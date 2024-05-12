@@ -16,4 +16,4 @@ For FCFS, however, the order of the requests directly impact its performance. Fo
 2. If the difference between the initial head and the innermost request is smaller than the other difference. sort the list in ascending order
 3. Else, sort the list in descending order
 
-After that, regular FCFS is run using the initial head position and the rearranged list.
+After that, regular FCFS is run using the initial head position and the rearranged list. This also means that the result will be consistent regardless of the order of requests in the original input file, as long as the numbers remain the same.
