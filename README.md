@@ -17,3 +17,6 @@ For FCFS, however, the order of the requests directly impact its performance. Fo
 3. Else, sort the list in descending order
 
 After that, regular FCFS is run using the initial head position and the rearranged list. This also means that the result will be consistent regardless of the order of requests in the original input file, as long as the numbers remain the same.
+
+Here is a screenshot of the same input file, now with the second FCFS
+![image](https://github.com/BrandonSalimTheHuman/OSForumWeek9/assets/114371928/a135ffe4-b50b-461a-9720-18a3fffc2533)
